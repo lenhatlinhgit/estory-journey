@@ -1,6 +1,6 @@
 # Bài tập html Responsive
 
-## linnk https://themegrilldemos.com/#/themes/estory/preview/estory-journey
+## linnk  Bài tập https://themegrilldemos.com/#/themes/estory/preview/estory-journey
 
 ## Mô tả
 Dự án này được thực hiện nhằm luyện tập thiết kế giao diện responsive theo yêu cầu
@@ -28,9 +28,15 @@ Lê Nhật Linh
 
 # tablet
 ## Thực hành
-
+![tabletth](https://github.com/user-attachments/assets/0e604634-7642-4a76-96e0-f0f4dae07c02)
 ## Yêu cầu
+![Ảnh chụp màn hình_19-1-2026_174348_themegrilldemos com](https://github.com/user-attachments/assets/12cef067-62dc-44e9-9548-0bb172c5dd94)
+
 
 # mobile
 ## Thực hành
+![mobileth](https://github.com/user-attachments/assets/281b45f7-ebc2-4a4d-8f8e-2c0e13968e5b)
+
 ## Yêu cầu
+![Ảnh chụp màn hình_19-1-2026_17471_themegrilldemos com](https://github.com/user-attachments/assets/003ca617-b56a-46b0-8162-20edd776b9a7)
+

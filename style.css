@@ -461,6 +461,20 @@ footer hr {
             cursor: pointer;
             padding-bottom: 16px;
         }
+@media (max-width: 1200px) {
+    .container {
+    max-width: 98vw;
+}
+.header {
+    max-width: 98vw;
+}
+.img-headmaincontent {
+    max-width: 98vw;
+}
+.main-content {
+    max-width: 98vw;
+}
+}
 @media (max-width: 720px) {
     header {
         padding: 0px;

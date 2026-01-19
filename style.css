@@ -474,10 +474,12 @@ footer hr {
         height: 132px;
         margin-top: 0px;
         margin-bottom: 0px;
+        width: 96vw;
     }
     .img-headmaincontent{
         max-width: 688px;
         width: 100%;
+        width: 96vw;
     }
     .img-headmaincontent div {
         width: 100%;
@@ -488,6 +490,7 @@ footer hr {
     }
     .main-content {
         max-width: 688px;
+        width: 96vw;
     }
     .text {
         text-align: center;
@@ -502,6 +505,7 @@ footer hr {
         flex-direction: column;
         align-items: center;
         gap: 32px;
+        width: 96vw;
     }
 }
 @media (max-width: 480px) {

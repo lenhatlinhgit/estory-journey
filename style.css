@@ -43,7 +43,6 @@ header {
     padding: 0px;
     display: flex;
     justify-content: space-between;
-    height: 60px;
 }
 .header__logo {
     display: flex;
@@ -475,13 +474,13 @@ footer hr {
     max-width: 98vw;
 }
 }
-@media (max-width: 720px) {
+@media (max-width: 768px) {
     header {
         padding: 0px;
         padding-top: 15px;
     }
     .header {
-        max-width: 688px;
+        max-width: 732px;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -491,7 +490,7 @@ footer hr {
         width: 96vw;
     }
     .img-headmaincontent{
-        max-width: 688px;
+        max-width: 732px;
         width: 100%;
         width: 96vw;
     }
@@ -503,18 +502,18 @@ footer hr {
     height: 50px;
     }
     .main-content {
-        max-width: 688px;
+        max-width: 732px;
         width: 96vw;
     }
     .text {
         text-align: center;
     }
     .banner img {
-        max-width: 688px;
+        max-width: 732px;
         width: 96vw;
     }
     .main-video {
-        max-width: 688px;
+        max-width: 732px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -525,9 +524,12 @@ footer hr {
 @media (max-width: 480px) {
     .header {
         max-width: 448px;
+        width: calc(100vw - 32px);
+        
     }
     .img-headmaincontent {
         max-width: 448px;
+        width: calc(100vw - 32px);
     }
     .main-components {
         max-width: 448px;
@@ -563,7 +565,7 @@ footer hr {
                 padding: 16px;
                 height: 100vh;
             }
-            .nav__main.active span {
+            .menu-close {
                 display: flex;
                 justify-content: flex-end;
                 width: 100%;
@@ -597,5 +599,19 @@ footer hr {
             .pages a {
                 padding: 4px 12px;
                 height: 24px;
+            }
+            .dropdown-btn {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                width: 100%;
+                height: 48px;
+            }
+            .dropdown-btn svg {
+                margin-top: 12px;
+                margin-left: 12px;
+            }
+            .nav__icon {
+                margin-top: 12px;
             }
 }

@@ -914,7 +914,7 @@ html {
         }
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 530px) {
         .header {
             max-width: 448px;
             width: calc(100vw - 32px);
@@ -1050,4 +1050,5 @@ html {
             display: block;
         }
     }
+
 

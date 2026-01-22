@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+
+Sitemap: https://lenhatlinhgit.github.io/estory-journey/sitemap.xml
+

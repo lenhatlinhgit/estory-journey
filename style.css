@@ -835,7 +835,15 @@ html {
             margin-bottom: 0px;
             width: 96vw;
         }
-
+            .img-headmaincontent1 {
+    width: 100%;
+}
+.img-headmaincontent2 {
+    width: 100%;
+}
+.img-headmaincontent3 {
+    width: 100%;
+}
         .Contact {
             display: flex;
             flex-direction: column;
@@ -1042,3 +1050,4 @@ html {
             display: block;
         }
     }
+
